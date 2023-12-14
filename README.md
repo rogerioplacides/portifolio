@@ -12,10 +12,10 @@ Meu primeiro portifolio criado com os cursos de Html e Css da Alura
 
 ## Ferramentas utilizadas:
 
-*HTML
+* HTML
 
-*CSS
+* CSS
 
-*Flex-box
+* Flex-box
 
 ### Projeto desenvolvido durante o curso de Front-end da [Alura](https://www.alura.com.br/)
